@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: gitfitdevs.com
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl:
+baseurl: gitfitdev.github.io
 
 # Title of the Site
 title: Fostering Greatness
@@ -26,10 +26,9 @@ email: gitfitdev@gmail.com
 facebook_username: gitfitdev
 twitter_username: gitfitdev
 instagram_username: gitfitdev
-linkedin_username: /
+linkedin_username: https://www.linkedin.com/in/courtney-revada-luz-3135ba13a/
 github_username:  gitfitdev
-youtube_channel_id: /
-spotify_username: /
+spotify_username: gitfitdev
 
 # Google Analytics
 google-analytics: UA-163806439-1
