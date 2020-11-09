@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl:
 
 # Title of the Site
 title: Fostering Greatness
@@ -15,7 +15,7 @@ site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url:
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
@@ -40,7 +40,7 @@ disqus-shortname: gitfitdev
 # Name of the Author
 author-name:  Courtney Revada
 # URL for the Image of the Author
-author-image: /WhatATheme/assets/images/me.jpg
+author-image: ./assets/images/me.jpg
 # 60 Words About the Author
 author-about: My name is Courtney Revada, and I am a self taught web developer. Outside of my career I am a foster youth advocate who wishes to inspire those with care experience and help change the foster care system. I believe anyone can become successful in life regardless of your background. Let's join together in fostering greatness in us all!
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
