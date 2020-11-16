@@ -28,6 +28,6 @@ You don’t have to write code, be a millionaire, become the next CEO of a famou
 
 #### Author
 
-Courtney Revada-Luz<br/>
-Instagram: @Gitfitdev<br/>
+Courtney Revada-Luz <br/>
+Instagram: @Gitfitdev <br/>
 Twitter: @Gitfitdev
